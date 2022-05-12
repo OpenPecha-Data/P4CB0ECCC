@@ -52,3 +52,8 @@ source_metadata:
       parent: Songs
 created_at: '2022-03-01T01:29:57.560182'
 last_modified_at: '2022-03-01T01:29:57.560185'
+statistics:
+  total_words: 10530
+  total_non_words: 1005
+quality:
+  non_words_ratio: 0.1
